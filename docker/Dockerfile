@@ -2,7 +2,7 @@ ARG ARCH
 ARG VERSION
 ARG VARIANT
 
-FROM scratch:${VERSION}
+FROM coligo.azurecr.io/coligo-lite:${VERSION}
 
 ARG ARCH
 ARG VERSION
