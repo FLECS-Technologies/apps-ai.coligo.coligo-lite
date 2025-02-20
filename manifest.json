@@ -6,16 +6,7 @@
     "revision": "0",
     "image": "flecs.azurecr.io/ai.coligo.coligo-lite",
     "multiInstance": false,
-    "editor": [
-        {
-            "name": "UI HTTP",
-            "port": 2111
-        },
-        {
-            "name": "UI HTTPS",
-            "port": 2112
-        }
-    ],
+    "editor": ":2111",
     "args": [],
     "capabilities": [],
     "conffiles": [],
