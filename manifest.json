@@ -6,7 +6,7 @@
     "revision": "0",
     "image": "flecs.azurecr.io/ai.coligo.coligo-lite",
     "multiInstance": false,
-    "editor": "",
+    "editor": ":2111",
     "args": [],
     "capabilities": [],
     "conffiles": [],
